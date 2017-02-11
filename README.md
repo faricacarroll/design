@@ -14,4 +14,4 @@ The Jupyter Brand Guide can be found [here](https://github.com/jupyter/design/ra
 
 ### Rectangle Logo
 
-![Alt text](/design/master/logos/Rectangle%20Logo/rectanglelogo-greytext-orangebody-greymoons/rectanglelogo-greytext-orangebody-greymoons.png?raw=true "Rectangle Logo")
+![Alt text](jupyter/design/master/logos/Rectangle%20Logo/rectanglelogo-greytext-orangebody-greymoons/rectanglelogo-greytext-orangebody-greymoons.png?raw=true "Rectangle Logo")
