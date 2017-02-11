@@ -14,6 +14,32 @@ The Jupyter Brand Guide can be found [here](https://github.com/jupyter/design/ra
 
 ### Rectangle Logo
 
+
 ![Settings Window](https://raw.githubusercontent.com/jupyter/design/master/logos/Rectangle%20Logo/rectanglelogo-greytext-orangebody-greymoons/rectanglelogo-greytext-orangebody-greymoons.png)
 
+This is the main logo. Use this logo when filling up a horizontal space. The minimum size is 20px height.
+
+### Square Logo
+
+
+![Settings Window](https://raw.githubusercontent.com/jupyter/design/master/logos/Square%20Logo/squarelogo-greytext-orangebody-greymoons/squarelogo-greytext-orangebody-greymoons.png)
+
+Use this logo when filling up a vertical or square space. The minimum size is 20px height.
+
+### Logo Mark
+
+
+![Settings Window](https://raw.githubusercontent.com/jupyter/design/master/logos/Logo%20Mark/logomark-orangebody-greyplanets/logomark-orangebody-greyplanets.png)
+
+Use this logo to reference Project Jupyter. Do not alter the “Planet” figure by placing words inside of it or next to it. The minimum size is 20px height.
+
+
+### Favicon
+
+
+![Settings Window](https://raw.githubusercontent.com/jupyter/design/master/logos/Logo%20Mark/logomark-orangebody-greyplanets/logomark-orangebody-greyplanets.png)
+
+This logo is for online only. The size of thise image is usually 16x16 or 32x32 pixels.
+
+If you have any questions email design.jupyter@gmail.com
 
