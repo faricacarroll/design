@@ -10,3 +10,8 @@ README page, rather than individual files.
 
 The Jupyter Brand Guide can be found [here](https://github.com/jupyter/design/raw/master/brandguide/jupyter_brand_guide.pdf).
 
+# Jupyter Logo Legend
+
+### Rectangle Logo
+
+![Alt text](/design/logos/RectangleLogo/rectanglelogo-greytext-orangebody-greymoons/rectanglelogo-greytext-orangebody-greymoons.png?raw=true "Rectangle Logo")
