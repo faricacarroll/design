@@ -37,7 +37,7 @@ Use this logo to reference Project Jupyter. Do not alter the “Planet” figure
 ### Favicon
 
 
-![Settings Window](https://raw.githubusercontent.com/jupyter/design/master/logos/Logo%20Mark/logomark-orangebody-greyplanets/logomark-orangebody-greyplanets.png)
+![Settings Window](https://raw.githubusercontent.com/jupyter/design/master/logos/Favicon/favicon.png =250x)
 
 This logo is for online only. The size of thise image is usually 16x16 or 32x32 pixels.
 
